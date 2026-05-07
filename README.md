@@ -1,1 +1,1 @@
-# submitRepo1
+This repo contains select key code for the paper, "Automating Large Unpredictable Tasks With Numerous Self-Learning Intelligent Agents" in order to ensure reproducibility. Relevant code segments will be available in the "dev" folder. Upon completion of the pending intellectual property shortly or upon the request of the reviewers, we plan to incrementally release additional files and code segments. Please see the "fileInformation.md" document for information on the current content of the "dev" folder.
